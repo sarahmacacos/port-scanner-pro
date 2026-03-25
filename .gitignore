@@ -1,4 +1,3 @@
 results.json
-__pycache__
-scan_output.json
-logs/
+__pycache__/
+*.pyc
